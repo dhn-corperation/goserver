@@ -1,5 +1,5 @@
 # goserver
-## 종류
+## Service
 - DHNServer
 - DHNCenter
 
