@@ -1,7 +1,7 @@
 # goserver
-### 종류
----
-##### DHNServer, DHNCenter
+## 종류
+- DHNServer
+- DHNCenter
 
 
 ### Go lang Version
